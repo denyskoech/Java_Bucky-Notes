@@ -21,6 +21,8 @@ The installation will follow the steps below.
 	f) copy the location (where the compiler is located)
 	g) >> control panel >> system maintenance >> Advanced system 		   settings
 	h) under the Advanced tab >> Environment >> new
-	
+	i) variable name type "path" and under variable location paste 		   the path of the location of the compiler
+	j) click ok a bunch of times and you are good to go
+	K) Go to cmd and type javac if it doesnt throw an error 		   then you are ready to write your java program!	
 
 
