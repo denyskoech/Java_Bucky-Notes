@@ -13,5 +13,10 @@ The installation will follow the steps below.
 
 3. Once this is done we need to set up the java compiler, although it 	   comes as one of the basic functions of the JDK, it is not made          vailable by a simple the wizard installation there is a bunch of        other tricks required. The compiler is usually accessed through      CMD by typing javac, and the set up continues..
 
+	a) Go to the drive where your OS is installed 
+	b) >> program files 
+	c) >> Java folder and locate the JDK version you are using	
+	d) >> bin
+
 
 
