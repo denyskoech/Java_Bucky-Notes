@@ -17,6 +17,10 @@ The installation will follow the steps below.
 	b) >> program files 
 	c) >> Java folder and locate the JDK version you are using	
 	d) >> bin
-
+	e) Right click on any of the files and click properties
+	f) copy the location (where the compiler is located)
+	g) >> control panel >> system maintenance >> Advanced system 		   settings
+	h) under the Advanced tab >> Environment >> new
+	
 
 
