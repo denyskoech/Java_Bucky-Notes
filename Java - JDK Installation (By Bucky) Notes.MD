@@ -6,6 +6,8 @@ Before writing any programs you need to install JDK, short forJava Developement 
 
 The installation will follow the steps below.
 
+1. Download the JDK
+   You can download from java.sun.com >> downloads >> JAVASE     (Starndard Edition) >> JAVASE Development kit >> download (>> means    go to the link under that name and click). This will download the    executable file you will need.
 
 
 
