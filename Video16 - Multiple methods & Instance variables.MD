@@ -1,6 +1,6 @@
 *************************************************************
 =============================================================
-JAVA - Bucky vide0 16 (Multiple methods & Instance variables)
+JAVA - Bucky video 16 (Multiple methods & Instance variables)
 =============================================================
 *************************************************************
 
@@ -36,6 +36,9 @@ public class main {
 
 	}
 }
+
+	OUTPUT: Prompt "Enter your name here" then print out "Your first 		girlfriend was userinput" 
+
 
 what is happening - break down
 ------------------------------

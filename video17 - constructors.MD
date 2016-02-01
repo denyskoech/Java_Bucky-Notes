@@ -1,8 +1,9 @@
 *************************************************************
 =============================================================
-JAVA - Bucky vide0 16 (constructor)
+JAVA - Bucky video 17 (constructors)
 =============================================================
 *************************************************************
+
 
 - Constractor allows you to initialize variables as soon as you instatiate an object instead of empty parameters you can pass arguments in them.
 - Constructor method has to have the same name as the name of the file that it being created from.

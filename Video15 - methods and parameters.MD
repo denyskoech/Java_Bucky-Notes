@@ -26,6 +26,7 @@ public class name {
 
 }
 
+	OUTPUT: prompt for user input the print out "Hello userinput" 
 
 To Note
 -------

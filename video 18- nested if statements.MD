@@ -1,6 +1,6 @@
 *************************************************************
 =============================================================
-JAVA - Bucky vide0 18 (Nested if statements and if - else statements)
+JAVA - Bucky video 18 (Nested if statements and if - else statements)
 =============================================================
 *************************************************************
 
@@ -19,9 +19,9 @@ public class main {
 		if (age < 50) {
 			System.out.println("You are Young");
 		} else {
-			System.out.println("You are Young");
+			System.out.println("You are old");
 
-			if (age < 75) {
+			if (age > 75) {
 				System.out.println("You are really old");
 			} else {
 				System.out.println("Dont worry you arent realy that old");
@@ -30,6 +30,8 @@ public class main {
 
 	}
 }
+
+	OUTPUT: "You are old" "Dont worry you arent realy that old"
 
 
 

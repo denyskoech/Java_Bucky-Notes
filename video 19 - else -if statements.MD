@@ -1,6 +1,6 @@
 *************************************************************
 =============================================================
-JAVA - Bucky vide0 16 (Multiple methods & Instance variables)
+JAVA - Bucky video 19 (else if statements)
 =============================================================
 *************************************************************
 
@@ -18,7 +18,7 @@ public class main {
 		if (age >= 60) {
 			System.out.println("You are in your 60's");
 		} else if (age >= 50) {
-			System.out.println("You are in your 60's");
+			System.out.println("You are in your 50's");
 		} else if (age >= 40) {
 			System.out.println("You are in your 40's");
 		}else {
@@ -29,6 +29,7 @@ public class main {
 	}
 }
 
+	OUTPUT: You are in your 50's
 
 How it works
 ------------
