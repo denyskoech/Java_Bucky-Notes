@@ -33,5 +33,5 @@ public class main22 {
 To note
 -------
 
-We use Math.pow to get the power of a number.
+- We use Math.pow to get the power of a number.
 - The value of day increases with every loop and the new amount printed out.
