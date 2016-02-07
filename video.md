@@ -42,3 +42,8 @@ import - used to import external classes
 Scanner - Class that is used to accept input from user. To use the scanner you need to create a new scanner object in evry class that you intend to use it by using keyword 'new' and inside the Scanner() parantheses we define the input string that you want the Scanner() to look at.
 System.in - Listens to the input from the keyboard
 .hasNext - used to check if the next value in the entered has a certain value or type(by adding .<type>).
+
+Worth noting
+-------------
+- The name that you give to yourclass should be the same as the name of your java file.
+-Print Vs println- print doesnt cause a character change after printing and println does.
