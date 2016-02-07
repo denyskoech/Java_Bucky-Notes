@@ -47,3 +47,15 @@ Worth noting
 -------------
 - The name that you give to yourclass should be the same as the name of your java file.
 -Print Vs println- print doesnt cause a character change after printing and println does.
+
+
+******************
+Exception Handling
+******************
+In example one above the class only checks if the user input is an integer and then prints it out if it is but suppose the value entered by the user is not an integer then the program will crash. 
+
+This is where exception handling comes in. To provide another action if the input is not of the expexcted type to catch the errors using an else statement. See the example below on how to make the class above better.
+
+---------
+Example 2
+---------
