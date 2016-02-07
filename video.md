@@ -94,3 +94,15 @@ hasNextDouble() - for double
 hasNextLine() - for string
 hasNextByte() - for byte
 ... so on so forth and to output is .nextLine() for string :)
+
+***********************
+Mathematical Operations
+***********************
+You can perform various mathematical operations with jave and the operational expressions are just the usual mathematical opearitons
++ : for addition
+- : for subtraction
+* : for multiplcation
+/ : for division
+% : Gives remeinder of a multiplication expression
+
+You can do a bunch of things with them. See below
