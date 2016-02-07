@@ -106,3 +106,34 @@ You can perform various mathematical operations with jave and the operational ex
 % : Gives remeinder of a multiplication expression
 
 You can do a bunch of things with them. See below
+
+---------
+Example 3
+---------
+import java.util.Scanner;
+
+public class <classname> 
+{
+	static Scanner userInput = new Scanner(System.in);
+
+	public static void main(String[] args) 
+	{
+		System.out.print("Your favorite number");
+		if (userInput.hasNextInt())
+		{
+			
+			int numberEntered = userInput.nextInt();
+			System.out.println("You entered " +numberEntered);
+			int numberEnteredTimes2 = numberEntered * 2;
+			int numberEnteredMinus2 = numberEntered - 2;
+			int numberEnteredDivide2 = numberEntered / 2;
+			int numberEnteredPlus2 = numberEntered + 2;
+			system.out.println(numberEntered + " * 2 = " numberEnteredTimes2);
+			
+		} else {
+			
+			System.out.println("Enter an integer next time")
+		
+		}
+
+	}
