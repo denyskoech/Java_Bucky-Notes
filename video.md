@@ -84,3 +84,13 @@ public class <classname>
 
 	}
 }
+
+OUTPUT: will print Your favorite number: and wait for your 			input and if it is a number it will print out 'You 			entered	yournumber' if it not a number then it will			print out 'Enter an integer next time'.
+
+Worth noting
+-------------
+if you want to check whether an array has other value types like hasNextInt above you just use:
+hasNextDouble() - for double
+hasNextLine() - for string
+hasNextByte() - for byte
+... so on so forth and to output is .nextLine() for string :)
