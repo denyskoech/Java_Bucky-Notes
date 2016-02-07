@@ -137,3 +137,31 @@ public class <classname>
 		}
 
 	}
+
+
+
+	OUTPUT: will print Your favorite number: and wait for your 			input and if it is a number it will print out 'You 			entered	yournumber' then 'yournumber * 2 = 				yournumbertimes2' if it not a number then it will print 		out 'Enter an integer next time'.
+
+Worth noting
+------------
+If you had a variable initiated to a value and wanted to perform an action on the value and save it back to it you could do a shorthand. Example to save numberEnteredTimes2
+
+istead of : int numberEnteredTimes2 = numberEntered * 2
+We could do: int numberEnteredTimes2 *= 2
+
+increament by 1: numberEntered++;
+increament by 2: numberEntered+2;
+Decreament by 1: numberEntered--;
+Decreament by 2: numberEntered-2;
+
+Java has inbuilt math library to amp our experience, check out example
+
+Math.abs(numberEntered) - finds the absolute of numberEntered.
+Math.max(x, y) - Find max number
+Math.min(x, y) - Find minimum number
+Math.sqrt(numberEntered) - find squareroot (ensure variable type is double)
+Math.ceil - round up a number (1.45 will be 2)
+Math.floor - round down a number (1.45 will be 1)
+Math.round - rounding off a number (1.45 will be 1 while 1.7 will be 2)
+Math.random - Find random numbers (Math.random()*10 between 0 & 11)
+
