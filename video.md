@@ -59,3 +59,28 @@ This is where exception handling comes in. To provide another action if the inpu
 ---------
 Example 2
 ---------
+
+
+import java.util.Scanner;
+
+public class <classname> 
+{
+	static Scanner userInput = new Scanner(System.in);
+
+	public static void main(String[] args) 
+	{
+		System.out.print("Your favorite number");
+		if (userInput.hasNextInt())
+		{
+			
+			int numberEntered = userInput.nextInt();
+			System.out.println("You entered " +numberEntered);
+
+		} else {
+			
+			System.out.println("Enter an integer next time");
+		
+		}
+
+	}
+}
